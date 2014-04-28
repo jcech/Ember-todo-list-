@@ -11,12 +11,12 @@ Todos.Todo.FIXTURES = [
   },
   {
     id: 2,
-    title: '....',
+    title: 'LEARN LEARN LEARN',
     isCompleted: false
   },
   {
     id: 3,
-    title: 'Profit!',
+    title: 'Profit??',
     isCompleted: false
   }
 ];
